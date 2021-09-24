@@ -1,7 +1,5 @@
-ONTOX Github pages
-================
 
-## \*\* UNDER CONSTRUCTION \*\*
+\*\* UNDER CONSTRUCTION \*\*
 
 ## The ONTOX Project
 
@@ -14,9 +12,9 @@ of chemical and systemic repeated dose toxicity effect.
 
 ## Tools, Software and models
 
-We envison to share the tools, software and models developed in ONTOX
+We envision to share the tools, software and models developed in ONTOX
 here. Stay tuned to these pages for updates. These Github pages will
-also be used to share the documentation
+also be used to share the documentation.
 
 ## Links
 
