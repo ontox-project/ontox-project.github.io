@@ -20,7 +20,7 @@ also be used to share the [documentation](/docs/docs.html).
 
 -   [ontox-hu](https://github.com/ontox-hu)
 -   [ontox.eu](https://ontox-project.eu/)
--   [codis.europa.eu](https://cordis.europa.eu/project/id/963845)
+-   [cordis.europa.eu](https://cordis.europa.eu/project/id/963845)
 
 ## Documentation
 
