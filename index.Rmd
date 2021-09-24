@@ -11,7 +11,7 @@ This strategy can be applied to any type of chemical and systemic repeated dose 
 This strategy can be applied to any type of chemical and systemic repeated dose toxicity effect. 
 
 ## Tools, Software and models
-We envision to share the tools, software and models developed in ONTOX here. Stay tuned to these pages for updates. These Github pages will also be used to share the documentation.
+We envision to share the tools, software and models developed in ONTOX here. Stay tuned to these pages for updates. These Github pages will also be used to share the [documentation](/docs/docs.html).
 
 ## Links
 
