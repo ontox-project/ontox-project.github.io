@@ -1,0 +1,6 @@
+---
+title: "docs"
+output: github_document
+---
+
+## The docs will live here
