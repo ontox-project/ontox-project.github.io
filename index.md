@@ -10,7 +10,7 @@ effects that, upon combination with tailored exposure assessment, will
 enable human risk assessment. This strategy can be applied to any type
 of chemical and systemic repeated dose toxicity effect.
 
-## Tools, Software and models
+## Tools, Software and Models
 
 We envision to share the tools, software and models developed in ONTOX
 here. Stay tuned to these pages for updates. These Github pages will
@@ -21,6 +21,7 @@ also be used to share the [documentation](/docs/docs.html).
 -   [ontox-hu](https://github.com/ontox-hu)
 -   [ontox.eu](https://ontox-project.eu/)
 -   [cordis.europa.eu](https://cordis.europa.eu/project/id/963845)
+-   [OpenToxTalk](/doc/OpenToxTalk.pdf)
 
 ## Documentation
 
